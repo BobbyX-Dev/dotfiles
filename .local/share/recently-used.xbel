@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///run/media/bobby/340acbab-f7d1-4035-992d-a589f71188bb/home" added="2024-04-30T08:18:39.073566Z" modified="2024-04-30T08:18:39.073572Z" visited="2024-04-30T08:18:39.073567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-30T08:18:39.073569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/bobby/340acbab-f7d1-4035-992d-a589f71188bb/home/bobby" added="2024-04-30T08:18:39.841689Z" modified="2024-04-30T08:18:39.841697Z" visited="2024-04-30T08:18:39.841691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-30T08:18:39.841692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby" added="2024-04-30T08:18:52.088865Z" modified="2024-05-02T08:21:35.916355Z" visited="2024-04-30T08:18:52.088867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:21:35.916352Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/keybindings/bobby.conf" added="2024-05-02T06:50:44.973796Z" modified="2024-05-02T08:34:54.089732Z" visited="2024-05-02T06:50:44.973797Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 31:39;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:34:54.089728Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/custom.conf" added="2024-05-02T06:54:34.750934Z" modified="2024-05-02T13:39:18.350633Z" visited="2024-05-02T06:54:34.750934Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 21:1;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:39:18.350629Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/decorations/default.conf" added="2024-05-02T07:02:35.957474Z" modified="2024-05-02T07:03:06.459579Z" visited="2024-05-02T07:02:35.957475Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T07:03:06.459575Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T07:02:59.238047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/decorations/default%20(copy%201).conf" added="2024-05-02T07:03:18.905428Z" modified="2024-05-02T07:03:19.933952Z" visited="2024-05-02T07:03:18.905428Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T07:03:19.933947Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/decorations/bobby.conf" added="2024-05-02T07:03:36.089430Z" modified="2024-05-02T13:25:10.157695Z" visited="2024-05-02T07:03:36.089431Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 31:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:25:10.157695Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/monitors/highres.conf" added="2024-05-02T07:06:53.922072Z" modified="2024-05-02T07:06:56.900520Z" visited="2024-05-02T07:06:53.922072Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T07:06:56.900515Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/monitors/default.conf" added="2024-05-02T07:06:58.851858Z" modified="2024-05-02T07:07:00.762381Z" visited="2024-05-02T07:06:58.851858Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 5:25;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T07:07:00.762378Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/monitors/3840x2160.conf" added="2024-05-02T07:07:56.682991Z" modified="2024-05-02T09:37:36.844512Z" visited="2024-05-02T07:07:56.682991Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 6:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:37:36.844508Z" count="58"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/animations/default.conf" added="2024-05-02T07:34:20.599937Z" modified="2024-05-02T11:09:46.723040Z" visited="2024-05-02T07:34:20.599937Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T11:09:46.723038Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/environments/default.conf" added="2024-05-02T07:34:46.719772Z" modified="2024-05-02T14:35:52.704225Z" visited="2024-05-02T07:34:46.719772Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 14:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T14:35:52.704221Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Iso/elementaryos-7.1-stable.20230926rc.iso" added="2024-05-02T07:38:56.775072Z" modified="2024-05-02T07:38:56.775081Z" visited="2024-05-02T07:38:56.775074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2024-05-02T07:38:56.775077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config" added="2024-05-02T08:20:18.446298Z" modified="2024-05-02T12:08:37.174539Z" visited="2024-05-02T08:20:18.446299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T12:08:37.174535Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr" added="2024-05-02T08:20:20.835667Z" modified="2024-05-02T09:35:18.141843Z" visited="2024-05-02T08:20:20.835668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:35:18.141840Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf" added="2024-05-02T08:20:22.667486Z" modified="2024-05-02T09:38:13.614972Z" visited="2024-05-02T08:20:22.667487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:38:13.614969Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/animations" added="2024-05-02T08:20:26.491522Z" modified="2024-05-02T08:20:26.491529Z" visited="2024-05-02T08:20:26.491523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:20:26.491525Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/scripts" added="2024-05-02T08:21:10.756353Z" modified="2024-05-02T08:21:10.756361Z" visited="2024-05-02T08:21:10.756354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:21:10.756356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/keybindings" added="2024-05-02T08:21:26.185686Z" modified="2024-05-02T08:21:26.185694Z" visited="2024-05-02T08:21:26.185687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:21:26.185690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles" added="2024-05-02T08:21:38.549969Z" modified="2024-05-02T11:21:17.108812Z" visited="2024-05-02T08:21:38.549971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T11:21:17.108809Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr" added="2024-05-02T08:21:41.956651Z" modified="2024-05-02T08:21:41.956658Z" visited="2024-05-02T08:21:41.956653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:21:41.956654Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles-versions" added="2024-05-02T08:21:54.004734Z" modified="2024-05-02T08:21:54.004741Z" visited="2024-05-02T08:21:54.004735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:21:54.004737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts" added="2024-05-02T08:22:02.957335Z" modified="2024-05-02T08:59:32.751793Z" visited="2024-05-02T08:22:02.957336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:59:32.751792Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/fontsearch.sh" added="2024-05-02T08:22:18.081369Z" modified="2024-05-02T08:22:18.081373Z" visited="2024-05-02T08:22:18.081370Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:22:18.081371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/editor.sh" added="2024-05-02T08:27:19.698131Z" modified="2024-05-02T08:27:34.727890Z" visited="2024-05-02T08:27:19.698131Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 1:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:27:34.727887Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/filemanager.sh" added="2024-05-02T08:27:22.827334Z" modified="2024-05-02T08:27:35.330887Z" visited="2024-05-02T08:27:22.827335Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:27:22.827337Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:27:35.330883Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/alacritty" added="2024-05-02T08:39:31.740254Z" modified="2024-05-02T08:39:31.740256Z" visited="2024-05-02T08:39:31.740255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:39:31.740255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/cleanup.sh" added="2024-05-02T08:49:58.106984Z" modified="2024-05-02T08:49:59.615159Z" visited="2024-05-02T08:49:58.106984Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:49:59.615155Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/growthrate.py" added="2024-05-02T08:50:03.890698Z" modified="2024-05-02T08:50:05.265304Z" visited="2024-05-02T08:50:03.890698Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:05.265301Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/bravebookmarks.sh" added="2024-05-02T08:50:10.643370Z" modified="2024-05-02T08:50:25.330533Z" visited="2024-05-02T08:50:10.643370Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 15:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:25.330529Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/looking-glass.sh" added="2024-05-02T08:50:29.431890Z" modified="2024-05-02T08:50:34.661690Z" visited="2024-05-02T08:50:29.431890Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:34.661686Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/templates.sh" added="2024-05-02T08:50:36.955671Z" modified="2024-05-02T08:50:44.051869Z" visited="2024-05-02T08:50:36.955671Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 9:56;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:44.051865Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/onedrive.sh" added="2024-05-02T08:50:47.117904Z" modified="2024-05-02T08:50:52.829862Z" visited="2024-05-02T08:50:47.117904Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 12:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:52.829859Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/nm-applet.sh" added="2024-05-02T08:50:56.597617Z" modified="2024-05-02T08:50:59.008182Z" visited="2024-05-02T08:50:56.597617Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 6:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:50:59.008177Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/thunarterminal.sh" added="2024-05-02T08:51:01.944450Z" modified="2024-05-02T08:56:15.107466Z" visited="2024-05-02T08:51:01.944451Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 19:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:56:15.107462Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings" added="2024-05-02T08:51:18.663296Z" modified="2024-05-02T08:53:22.144872Z" visited="2024-05-02T08:51:18.663297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:53:22.144869Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings/editor.sh" added="2024-05-02T08:51:20.525163Z" modified="2024-05-02T08:51:23.493491Z" visited="2024-05-02T08:51:20.525163Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:51:23.493487Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings/software.sh" added="2024-05-02T08:51:37.246376Z" modified="2024-05-02T08:53:24.904277Z" visited="2024-05-02T08:51:37.246376Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:53:24.904273Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings/wallpaper-engine.sh" added="2024-05-02T08:56:12.039668Z" modified="2024-05-02T08:56:13.332478Z" visited="2024-05-02T08:56:12.039669Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:56:13.332473Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings/rofi-border.rasi" added="2024-05-02T08:56:19.832361Z" modified="2024-05-02T08:56:20.690480Z" visited="2024-05-02T08:56:19.832361Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:56:20.690477Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.version" added="2024-05-02T08:56:24.427003Z" modified="2024-05-02T08:56:24.427010Z" visited="2024-05-02T08:56:24.427004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:56:24.427006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.version/update.sh" added="2024-05-02T08:56:26.375555Z" modified="2024-05-02T08:56:51.593914Z" visited="2024-05-02T08:56:26.375555Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 7:26;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:56:51.593910Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.version/version.sh" added="2024-05-02T08:56:36.227850Z" modified="2024-05-02T08:56:37.287868Z" visited="2024-05-02T08:56:36.227851Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:56:37.287864Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/waybar" added="2024-05-02T08:56:58.435497Z" modified="2024-05-02T08:56:58.435504Z" visited="2024-05-02T08:56:58.435498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:56:58.435500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/waybar/themes" added="2024-05-02T08:57:00.130979Z" modified="2024-05-02T08:57:00.130983Z" visited="2024-05-02T08:57:00.130979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:00.130980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/waybar/themes/starter" added="2024-05-02T08:57:02.003577Z" modified="2024-05-02T08:57:02.003584Z" visited="2024-05-02T08:57:02.003578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:02.003580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/wallpapers" added="2024-05-02T08:57:06.484821Z" modified="2024-05-02T11:21:19.036680Z" visited="2024-05-02T08:57:06.484823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T11:21:19.036678Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/wal" added="2024-05-02T08:57:08.403950Z" modified="2024-05-02T08:57:08.403959Z" visited="2024-05-02T08:57:08.403951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:08.403954Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/wal/colorschemes" added="2024-05-02T08:57:09.259565Z" modified="2024-05-02T08:57:09.259572Z" visited="2024-05-02T08:57:09.259566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:09.259568Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/wal/colorschemes/dark" added="2024-05-02T08:57:09.915579Z" modified="2024-05-02T08:57:09.915586Z" visited="2024-05-02T08:57:09.915580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:09.915582Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/wal/templates" added="2024-05-02T08:57:11.747664Z" modified="2024-05-02T08:57:11.747671Z" visited="2024-05-02T08:57:11.747665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:57:11.747667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/vim" added="2024-05-02T08:57:16.723741Z" modified="2024-05-02T08:59:03.564392Z" visited="2024-05-02T08:57:16.723742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:59:03.564391Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/starship" added="2024-05-02T08:59:05.845302Z" modified="2024-05-02T08:59:05.845309Z" visited="2024-05-02T08:59:05.845303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:59:05.845305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/starship/starship.toml" added="2024-05-02T08:59:07.806856Z" modified="2024-05-02T08:59:25.711091Z" visited="2024-05-02T08:59:07.806856Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 15:5;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:59:25.711088Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/sddm" added="2024-05-02T08:59:29.505762Z" modified="2024-05-02T08:59:29.505763Z" visited="2024-05-02T08:59:29.505762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:59:29.505762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/sddm/scripts" added="2024-05-02T08:59:31.108792Z" modified="2024-05-02T08:59:31.108794Z" visited="2024-05-02T08:59:31.108792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T08:59:31.108793Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/installupdates.sh" added="2024-05-02T08:59:39.828063Z" modified="2024-05-02T08:59:49.177416Z" visited="2024-05-02T08:59:39.828063Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T08:59:49.177412Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/launchvm.sh" added="2024-05-02T08:59:52.267923Z" modified="2024-05-02T09:00:24.609929Z" visited="2024-05-02T08:59:52.267923Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 35:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:00:24.609925Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/diagnosis.sh" added="2024-05-02T09:00:36.247698Z" modified="2024-05-02T09:00:49.998522Z" visited="2024-05-02T09:00:36.247698Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:00:49.998519Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/scripts/cliphist.sh" added="2024-05-02T09:00:38.048544Z" modified="2024-05-02T09:00:42.584161Z" visited="2024-05-02T09:00:38.048545Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 12:34;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:00:42.584157Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/update.sh" added="2024-05-02T09:00:59.953023Z" modified="2024-05-02T09:01:45.152049Z" visited="2024-05-02T09:00:59.953023Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 62:20;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:01:45.152045Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/eww" added="2024-05-02T09:01:48.472001Z" modified="2024-05-02T09:01:48.472008Z" visited="2024-05-02T09:01:48.472001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:01:48.472003Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/eww/scripts" added="2024-05-02T09:01:54.767084Z" modified="2024-05-02T09:04:48.610093Z" visited="2024-05-02T09:01:54.767084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:04:48.610090Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/eww/scripts/launch_app.sh" added="2024-05-02T09:01:59.384039Z" modified="2024-05-02T09:02:44.119828Z" visited="2024-05-02T09:01:59.384039Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:02:44.119824Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/eww/scripts/eww.sh" added="2024-05-02T09:02:06.160740Z" modified="2024-05-02T09:02:07.399386Z" visited="2024-05-02T09:02:06.160741Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:02:07.399383Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Downloads" added="2024-05-02T09:04:59.259235Z" modified="2024-05-02T09:04:59.259238Z" visited="2024-05-02T09:04:59.259235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:04:59.259236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Downloads/dotfiles-dev" added="2024-05-02T09:05:01.895296Z" modified="2024-05-02T09:05:01.895297Z" visited="2024-05-02T09:05:01.895296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:05:01.895296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Downloads/dotfiles-dev/install.sh" added="2024-05-02T09:05:04.210975Z" modified="2024-05-02T09:07:54.352209Z" visited="2024-05-02T09:05:04.210975Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:07:54.352207Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Downloads/dotfiles-dev/.install" added="2024-05-02T09:05:29.707287Z" modified="2024-05-02T09:05:29.707294Z" visited="2024-05-02T09:05:29.707288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T09:05:29.707290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/start-settings.sh" added="2024-05-02T09:20:11.677441Z" modified="2024-05-02T09:20:13.489702Z" visited="2024-05-02T09:20:11.677442Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:20:13.489699Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/decorations/bobby.conf" added="2024-05-02T09:20:39.314309Z" modified="2024-05-02T09:42:03.511013Z" visited="2024-05-02T09:20:39.314310Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 17:26;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:42:03.511009Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/misc.conf" added="2024-05-02T09:29:47.700588Z" modified="2024-05-02T09:39:52.014636Z" visited="2024-05-02T09:29:47.700588Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 7:1;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:39:52.014632Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/binds.conf" added="2024-05-02T09:32:37.119847Z" modified="2024-05-02T09:32:37.381360Z" visited="2024-05-02T09:32:37.119848Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 6:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:32:37.381359Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/hyprland.conf" added="2024-05-02T09:33:38.535609Z" modified="2024-05-02T09:38:34.301554Z" visited="2024-05-02T09:33:38.535610Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 10:77;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:38:34.301552Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windowrules/bobby.conf" added="2024-05-02T09:37:47.050500Z" modified="2024-05-02T13:26:00.759371Z" visited="2024-05-02T09:37:47.050500Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 21:1;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:26:00.759367Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/hyprland.conf" added="2024-05-02T09:41:13.135787Z" modified="2024-05-02T09:42:30.069388Z" visited="2024-05-02T09:41:13.135788Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 50:45;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:42:30.069384Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/ml4w.conf" added="2024-05-02T09:42:36.647628Z" modified="2024-05-02T10:42:13.063227Z" visited="2024-05-02T09:42:36.647628Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 18:29;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T10:42:13.063223Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/keyboard.conf" added="2024-05-02T09:42:46.085337Z" modified="2024-05-02T11:57:05.179938Z" visited="2024-05-02T09:42:46.085339Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 14:20;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T11:57:05.179935Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/waybar/modules.json" added="2024-05-02T09:47:29.630274Z" modified="2024-05-02T10:02:54.488589Z" visited="2024-05-02T09:47:29.630274Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 155:55;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T10:02:54.488586Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/waybar/themes/starter/style.css" added="2024-05-02T09:48:34.788365Z" modified="2024-05-02T09:48:38.415544Z" visited="2024-05-02T09:48:34.788366Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T09:48:38.415540Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Iso" added="2024-05-02T10:44:56.870193Z" modified="2024-05-02T10:44:56.870199Z" visited="2024-05-02T10:44:56.870194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2024-05-02T10:44:56.870196Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/keybindings/bobby.conf" added="2024-05-02T10:46:00.992646Z" modified="2024-05-02T13:20:56.319985Z" visited="2024-05-02T10:46:00.992647Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 36:38;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:20:56.319980Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/misc.conf" added="2024-05-02T10:46:20.038854Z" modified="2024-05-02T13:35:12.998705Z" visited="2024-05-02T10:46:20.038855Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 20:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:35:12.998701Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/window.conf" added="2024-05-02T10:46:23.715027Z" modified="2024-05-02T13:33:22.018376Z" visited="2024-05-02T10:46:23.715054Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:33:22.018373Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windowrule.conf" added="2024-05-02T10:46:32.471005Z" modified="2024-05-02T10:47:53.821153Z" visited="2024-05-02T10:46:32.471006Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T10:47:53.821150Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/layout.conf" added="2024-05-02T10:46:52.967597Z" modified="2024-05-02T13:39:29.625828Z" visited="2024-05-02T10:46:52.967597Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 8:18;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:39:29.625825Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/animations/bobby-fast.conf" added="2024-05-02T11:09:24.419451Z" modified="2024-05-02T13:03:17.368763Z" visited="2024-05-02T11:09:24.419451Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 20:54;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:03:17.368760Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/animations/bobby-default.conf" added="2024-05-02T11:10:11.347094Z" modified="2024-05-02T11:10:29.259204Z" visited="2024-05-02T11:10:11.347095Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 14:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T11:10:29.259200Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Pictures/Free%20Abstract%20Color%20Explosions%204K%20Wallpaper%20Set.zip" added="2024-05-02T11:18:18.179667Z" modified="2024-05-02T11:18:18.179676Z" visited="2024-05-02T11:18:18.179669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2024-05-02T11:18:18.179671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Pictures" added="2024-05-02T11:21:00.958579Z" modified="2024-05-02T11:21:00.958586Z" visited="2024-05-02T11:21:00.958580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T11:21:00.958582Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Pictures/Free" added="2024-05-02T11:21:10.838024Z" modified="2024-05-02T11:21:10.838031Z" visited="2024-05-02T11:21:10.838025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T11:21:10.838027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/wallpaper" added="2024-05-02T11:21:28.525231Z" modified="2024-05-02T11:21:28.525238Z" visited="2024-05-02T11:21:28.525232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-02T11:21:28.525234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/keybinding.conf" added="2024-05-02T12:03:23.897970Z" modified="2024-05-02T12:03:58.049822Z" visited="2024-05-02T12:03:23.897970Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T12:03:58.049818Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/.settings/browser.sh" added="2024-05-02T12:04:14.576102Z" modified="2024-05-02T12:04:16.168167Z" visited="2024-05-02T12:04:14.576103Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T12:04:16.168163Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windows/border-4.conf" added="2024-05-02T13:00:55.317276Z" modified="2024-05-02T13:01:13.119692Z" visited="2024-05-02T13:00:55.317276Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 13:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:01:13.119689Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/monitor.conf" added="2024-05-02T13:22:44.986636Z" modified="2024-05-02T13:22:51.284422Z" visited="2024-05-02T13:22:44.986636Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:22:51.284418Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windows/default.conf" added="2024-05-02T13:23:18.792031Z" modified="2024-05-02T14:36:11.246600Z" visited="2024-05-02T13:23:18.792032Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T14:36:11.246596Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/.config/hypr/conf/windows/default.conf" added="2024-05-02T13:23:51.316657Z" modified="2024-05-02T13:25:10.156237Z" visited="2024-05-02T13:23:51.316658Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:25:10.156236Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windows/bobby-default.conf" added="2024-05-02T13:26:56.302497Z" modified="2024-05-02T14:36:19.814707Z" visited="2024-05-02T13:26:56.302498Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 17:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T14:36:19.814704Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/cursor.conf" added="2024-05-02T13:33:26.810620Z" modified="2024-05-02T13:33:38.996510Z" visited="2024-05-02T13:33:26.810621Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:33:38.996507Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/decoration.conf" added="2024-05-02T13:33:31.397974Z" modified="2024-05-02T13:33:39.496542Z" visited="2024-05-02T13:33:31.397974Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:33:39.496539Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/dotfiles/hypr/conf/windowrules/bobby-2.conf" added="2024-05-02T13:38:53.913452Z" modified="2024-05-02T13:39:17.359386Z" visited="2024-05-02T13:38:53.913452Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 65:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-05-02T13:39:17.359383Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bobby/Downloads/install-qemu.sh" added="2024-05-02T15:04:24.032452Z" modified="2024-05-02T15:04:24.621666Z" visited="2024-05-02T15:04:24.032455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox Beta %u&apos;" modified="2024-05-02T15:04:24.621662Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

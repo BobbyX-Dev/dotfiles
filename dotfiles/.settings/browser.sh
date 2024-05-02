@@ -1,0 +1,1 @@
+chromium --ozone-platform-hint=wayland --enable-wayland-ime

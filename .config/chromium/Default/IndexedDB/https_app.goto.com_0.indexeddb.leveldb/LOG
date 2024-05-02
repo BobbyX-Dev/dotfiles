@@ -1,0 +1,6 @@
+2024/04/30-13:33:35.130 8038 Creating DB /home/bobby/.config/chromium/Default/IndexedDB/https_app.goto.com_0.indexeddb.leveldb since it was missing.
+2024/04/30-13:33:35.139 8038 Reusing MANIFEST /home/bobby/.config/chromium/Default/IndexedDB/https_app.goto.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/30-14:01:41.331 8039 Level-0 table #5: started
+2024/04/30-14:01:41.335 8039 Level-0 table #5: 26170 bytes OK
+2024/04/30-14:01:41.338 8039 Delete type=0 #3
+2024/04/30-14:01:41.338 8039 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

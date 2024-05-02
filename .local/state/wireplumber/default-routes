@@ -1,0 +1,12 @@
+[default-routes]
+alsa_card.pci-0000_00_1f.3:profile:output:hdmi-stereo=["hdmi-output-0"]
+alsa_card.usb-Generic_USB_Audio-00.7:output:\oOut\c\sSPDIF={"channelVolumes":[0.063982, 0.063982], "latencyOffsetNsec":0, "mute":false, "channelMap":["FL", "FR"]}
+alsa_card.usb-Generic_USB_Audio-00.7:profile:HiFi=["[Out] SPDIF"]
+alsa_card.usb-Generic_USB_Audio-00:output:\oOut\c\sSPDIF={"latencyOffsetNsec":0, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[0.000000, 0.000000]}
+alsa_card.usb-Generic_USB_Audio-00:profile:HiFi=["[Out] SPDIF"]
+bluez_card.30_53_C1_EC_B2_33:input:headset-hf-input={"channelVolumes":[0.833668], "mute":false, "channelMap":["MONO"]}
+bluez_card.30_53_C1_EC_B2_33:output:headset-hf-output={"channelVolumes":[1.051299], "mute":false, "channelMap":["MONO"]}
+bluez_card.30_53_C1_EC_B2_33:output:headset-output={"channelVolumes":[0.081223, 0.081223], "latencyOffsetNsec":0, "mute":false, "channelMap":["FL", "FR"]}
+bluez_card.30_53_C1_EC_B2_33:profile:a2dp-sink=["headset-output"]
+bluez_card.30_53_C1_EC_B2_33:profile:a2dp-sink-sbc_xq=["headset-output"]
+bluez_card.30_53_C1_EC_B2_33:profile:headset-head-unit-msbc=["headset-hf-input", "headset-hf-output"]

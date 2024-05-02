@@ -1,0 +1,24 @@
+[Added Associations]
+text/plain=org.xfce.mousepad.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-4V00M2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-4V00M2.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-QNEBN2.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-QNEBN2.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-4V00M2.desktop
+message/rfc822=userapp-Thunderbird-4V00M2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-4V00M2.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-QNEBN2.desktop
+text/calendar=userapp-Thunderbird-QNEBN2.desktop
+application/x-extension-ics=userapp-Thunderbird-QNEBN2.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-QNEBN2.desktop
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+text/html=chromium.desktop
+x-scheme-handler/about=chromium.desktop
+x-scheme-handler/unknown=chromium.desktop
+

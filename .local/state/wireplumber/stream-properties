@@ -1,0 +1,9 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Audio/Source:media.name:WH-CH520\soutput={"channelMap":["MONO"], "volume":1.000000, "channelVolumes":[1.000000], "mute":false}
+Input/Audio/Internal:media.name:Bluetooth\sinternal\scapture\sstream\sfor\sWH-CH520\sinput={"channelVolumes":[1.000000], "volume":1.000000, "mute":false, "channelMap":["MONO"]}
+Input/Audio:application.id:org.PulseAudio.pavucontrol={"channelMap":["MONO"], "volume":1.000000, "channelVolumes":[1.000000], "mute":false}
+Input/Audio:application.name:Chromium\sinput={"mute":false, "volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Chromium={"mute":false, "volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Firefox={"mute":false, "volume":1.000000, "channelVolumes":[0.950000, 0.950000], "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
